@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="1"
+android:background="#FF000000"
+android:padding="0"
+android:layout_width="-1"
+android:layout_height="-1"
+>
+	<TextView
+	android:textSize="0"
+	android:id="@7F0F0054"
+	android:layout_width="-2"
+	android:layout_height="-2"
+	android:layout_margin="0"
+	android:text="通过云分析："
+	>
+	</TextView>
+	<LinearLayout
+	android:orientation="0"
+	android:layout_width="-2"
+	android:layout_height="-2"
+	android:layout_margin="0"
+	>
+		<TextView
+		android:textSize="0"
+		android:textColor="#FFFF0000"
+		android:layout_width="-2"
+		android:layout_height="-2"
+		android:text="总金额："
+		>
+		</TextView>
+		<TextView
+		android:textSize="0"
+		android:textColor="#FF00FF00"
+		android:id="@7F0F0055"
+		android:paddingLeft="0"
+		android:layout_width="-2"
+		android:layout_height="-2"
+		>
+		</TextView>
+	</LinearLayout>
+	<LinearLayout
+	android:orientation="0"
+	android:layout_width="-2"
+	android:layout_height="-2"
+	android:layout_margin="0"
+	>
+		<TextView
+		android:textSize="0"
+		android:textColor="#FFFF0000"
+		android:layout_width="-2"
+		android:layout_height="-2"
+		android:text="红包数："
+		>
+		</TextView>
+		<TextView
+		android:textSize="0"
+		android:textColor="#FF00FF00"
+		android:id="@7F0F0056"
+		android:paddingLeft="0"
+		android:layout_width="-2"
+		android:layout_height="-2"
+		>
+		</TextView>
+	</LinearLayout>
+	<LinearLayout
+	android:orientation="0"
+	android:layout_width="-2"
+	android:layout_height="-2"
+	android:layout_margin="0"
+	>
+		<TextView
+		android:textSize="0"
+		android:textColor="#FFFF0000"
+		android:layout_width="-2"
+		android:layout_height="-2"
+		android:text="最佳雷值为："
+		>
+		</TextView>
+		<TextView
+		android:textSize="0"
+		android:textColor="#FF00FF00"
+		android:id="@7F0F0057"
+		android:paddingLeft="0"
+		android:layout_width="-2"
+		android:layout_height="-2"
+		>
+		</TextView>
+	</LinearLayout>
+</LinearLayout>

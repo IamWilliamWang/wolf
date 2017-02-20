@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:insetLeft="@7F0A002C"
+android:insetRight="@7F0A002C"
+android:insetTop="@7F0A002D"
+android:insetBottom="@7F0A002B"
+>
+	<selector
+	>
+		<item
+		android:state_enabled="false"
+		>
+			<nine-patch
+			android:src="@7F020047"
+			android:tint="?7F010079"
+			android:alpha="?android01010033"
+			>
+			</nine-patch>
+		</item>
+		<item
+		android:state_focused="false"
+		android:state_pressed="false"
+		>
+			<nine-patch
+			android:src="@7F020047"
+			android:tint="?7F010079"
+			>
+			</nine-patch>
+		</item>
+		<item
+		>
+			<nine-patch
+			android:src="@7F020046"
+			android:tint="?7F01007A"
+			>
+			</nine-patch>
+		</item>
+	</selector>
+</inset>

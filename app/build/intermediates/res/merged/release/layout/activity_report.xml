@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="-1"
+android:layout_height="-1"
+>
+	<LinearLayout
+	android:gravity="0x00000011"
+	android:orientation="1"
+	android:id="@7F0F006B"
+	android:layout_width="-1"
+	android:layout_height="0"
+	android:layout_marginTop="0"
+	>
+		<WebView
+		android:id="@7F0F006C"
+		android:layout_width="0"
+		android:layout_height="0"
+		android:layout_centerHorizontal="true"
+		android:keepScreenOn="true"
+		android:layerType="1"
+		>
+		</WebView>
+	</LinearLayout>
+</LinearLayout>

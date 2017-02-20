@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="1"
+android:paddingTop="0"
+android:paddingRight="0"
+android:paddingBottom="0"
+android:layout_width="-2"
+android:layout_height="-2"
+android:paddingEnd="0"
+>
+	<LinearLayout
+	android:orientation="0"
+	android:id="@7F0F007A"
+	android:paddingTop="0"
+	android:layout_width="-1"
+	android:layout_height="-2"
+	android:layout_marginLeft="0"
+	android:layout_marginStart="0"
+	>
+		<TextView
+		android:textAppearance="@7F0B0027"
+		android:ellipsize="4"
+		android:id="@7F0F002A"
+		android:fadingEdge="0x00001000"
+		android:layout_width="-1"
+		android:layout_height="-2"
+		android:singleLine="true"
+		android:layout_weight="1065353216"
+		>
+		</TextView>
+		<include
+		android:layout_gravity="0x00000011"
+		android:id="@7F0F007B"
+		android:visibility="2"
+		android:layout_width="-2"
+		android:layout_height="-2"
+		android:layout_weight="0"
+		layout="@7F04002C"
+		>
+		</include>
+		<include
+		android:layout_gravity="0x00000011"
+		android:id="@7F0F007C"
+		android:visibility="2"
+		android:layout_width="-2"
+		android:layout_height="-2"
+		android:layout_weight="0"
+		layout="@7F04002B"
+		>
+		</include>
+	</LinearLayout>
+	<TextView
+	android:textAppearance="@7F0B0025"
+	android:ellipsize="4"
+	android:id="@7F0F007D"
+	android:visibility="2"
+	android:fadingEdge="0x00001000"
+	android:layout_width="-1"
+	android:layout_height="-2"
+	android:layout_marginLeft="0"
+	android:layout_marginTop="0"
+	android:layout_marginBottom="0"
+	android:singleLine="true"
+	android:layout_marginStart="0"
+	>
+	</TextView>
+	<LinearLayout
+	android:gravity="0x00000010"
+	android:orientation="0"
+	android:id="@7F0F007E"
+	android:layout_width="-1"
+	android:layout_height="-2"
+	android:layout_marginLeft="0"
+	android:layout_marginStart="0"
+	>
+		<TextView
+		android:textAppearance="@7F0B0023"
+		android:ellipsize="4"
+		android:layout_gravity="0x00000011"
+		android:id="@7F0F007F"
+		android:fadingEdge="0x00001000"
+		android:layout_width="0"
+		android:layout_height="-2"
+		android:singleLine="true"
+		android:layout_weight="1065353216"
+		>
+		</TextView>
+		<TextView
+		android:textAppearance="@7F0B0024"
+		android:gravity="0x00000011"
+		android:layout_gravity="0x00000011"
+		android:id="@7F0F0080"
+		android:paddingLeft="0"
+		android:layout_width="-2"
+		android:layout_height="-2"
+		android:singleLine="true"
+		android:layout_weight="0"
+		android:paddingStart="0"
+		>
+		</TextView>
+	</LinearLayout>
+</LinearLayout>

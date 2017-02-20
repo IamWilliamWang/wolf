@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="1"
+android:layout_width="-1"
+android:layout_height="-1"
+>
+	<RelativeLayout
+	android:background="#FFE46C62"
+	android:layout_width="-1"
+	android:layout_height="-2"
+	>
+		<TextView
+		android:textSize="0"
+		android:textColor="#FFFFFFFF"
+		android:gravity="0x00000013"
+		android:id="@7F0F006E"
+		android:layout_width="-2"
+		android:layout_height="0"
+		android:text="@7F080015"
+		android:layout_toRightOf="@7F0F006F"
+		android:elegantTextHeight="false"
+		>
+		</TextView>
+		<ImageView
+		android:id="@7F0F006F"
+		android:padding="0"
+		android:clickable="true"
+		android:layout_width="0"
+		android:layout_height="-1"
+		android:layout_marginLeft="0"
+		android:layout_marginRight="0"
+		android:src="@7F030002"
+		android:cropToPadding="false"
+		android:layout_alignBottom="@7F0F006E"
+		android:layout_alignParentLeft="true"
+		android:layout_alignParentTop="false"
+		android:layout_alignParentBottom="false"
+		android:onClick="performBack"
+		>
+		</ImageView>
+		<ImageView
+		android:id="@7F0F0070"
+		android:padding="0"
+		android:clickable="true"
+		android:layout_width="0"
+		android:layout_height="-1"
+		android:layout_marginLeft="0"
+		android:layout_marginRight="0"
+		android:src="@7F030006"
+		android:layout_alignBottom="@7F0F006E"
+		android:layout_alignParentRight="true"
+		android:onClick="openLink"
+		>
+		</ImageView>
+	</RelativeLayout>
+	<WebView
+	android:layout_gravity="0x00000001"
+	android:id="@7F0F0071"
+	android:layout_width="-1"
+	android:layout_height="-1"
+	android:foreground="#FFE46C62"
+	>
+	</WebView>
+</LinearLayout>

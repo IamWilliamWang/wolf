@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="1"
+android:background="#FF000000"
+android:layout_width="-1"
+android:layout_height="-2"
+>
+	<TextView
+	android:textAppearance="?android01010041"
+	android:textColor="#FFFFFFFF"
+	android:gravity="0x00000013"
+	android:id="@7F0F0072"
+	android:layout_width="0"
+	android:layout_height="0"
+	android:layout_marginLeft="0"
+	android:text="授权"
+	>
+	</TextView>
+	<LinearLayout
+	android:background="#FFF9AD0A"
+	android:layout_width="-1"
+	android:layout_height="-2"
+	android:layout_margin="0"
+	>
+		<EditText
+		android:textAppearance="?android01010041"
+		android:textColor="#FF000000"
+		android:textColorHint="#FF888888"
+		android:gravity="0x00000011"
+		android:id="@7F0F0073"
+		android:background="#FFFFFFFF"
+		android:layout_width="-1"
+		android:layout_height="0"
+		android:layout_margin="0"
+		android:hint="请输入授权码"
+		android:capitalize="0"
+		android:autoText="true"
+		>
+		</EditText>
+	</LinearLayout>
+	<Button
+	android:gravity="0x00000011"
+	android:id="@7F0F0074"
+	android:background="#FFBBBBBB"
+	android:layout_width="-1"
+	android:layout_height="0"
+	android:layout_marginLeft="0"
+	android:layout_marginTop="0"
+	android:layout_marginRight="0"
+	android:layout_marginBottom="0"
+	android:text="授权"
+	>
+	</Button>
+</LinearLayout>

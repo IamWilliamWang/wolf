@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.ActionMenuView
+xmlns:app="http://schemas.android.com/apk/res-auto"
+gravity="0x00000010"
+layout_width="-2"
+layout_height="-2"
+app:divider="?7F01003B"
+app:dividerPadding="0"
+>
+</android.support.v7.widget.ActionMenuView>

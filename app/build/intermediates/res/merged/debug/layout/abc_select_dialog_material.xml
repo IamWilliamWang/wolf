@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@7F0F004F"
+android:paddingTop="@7F0A0023"
+android:paddingBottom="@7F0A0023"
+android:scrollbars="0x00000200"
+android:fadingEdge="0x00000000"
+android:clipToPadding="false"
+android:layout_width="-1"
+android:layout_height="-1"
+android:cacheColorHint="@00000000"
+android:divider="?7F010050"
+android:overScrollMode="1"
+style="@7F0B012A"
+>
+</ListView>

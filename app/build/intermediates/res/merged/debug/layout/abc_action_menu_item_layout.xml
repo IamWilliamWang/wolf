@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.view.menu.ActionMenuItemView
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:textAppearance="?7F01003D"
+android:textColor="?7F01003E"
+android:gravity="0x00000011"
+android:layout_gravity="0x00000011"
+android:paddingLeft="0"
+android:paddingTop="0"
+android:paddingRight="0"
+android:paddingBottom="0"
+android:focusable="true"
+android:layout_width="-2"
+android:layout_height="-2"
+style="?7F010055"
+>
+</android.support.v7.view.menu.ActionMenuItemView>

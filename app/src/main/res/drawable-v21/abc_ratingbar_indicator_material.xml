@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+xmlns:android="http://schemas.android.com/apk/res/android"
+>
+	<item
+	android:id="@android01020000"
+	android:drawable="@7F020022"
+	>
+	</item>
+	<item
+	android:id="@android0102000F"
+	android:drawable="@7F020024"
+	>
+	</item>
+	<item
+	android:id="@android0102000D"
+	>
+		<bitmap
+		android:src="@7F020022"
+		android:tileModeX="1"
+		>
+		</bitmap>
+	</item>
+</layer-list>

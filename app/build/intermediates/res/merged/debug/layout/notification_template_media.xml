@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="0"
+android:id="@7F0F0077"
+android:layout_width="-1"
+android:layout_height="0"
+>
+	<ImageView
+	android:id="@7F0F0029"
+	android:layout_width="@7F0A004B"
+	android:layout_height="@7F0A004B"
+	android:scaleType="6"
+	>
+	</ImageView>
+	<include
+	android:layout_width="0"
+	android:layout_height="-2"
+	android:layout_weight="1065353216"
+	layout="@7F040029"
+	>
+	</include>
+	<LinearLayout
+	android:layout_gravity="0x00800015"
+	android:orientation="0"
+	android:id="@7F0F0078"
+	android:layout_width="-2"
+	android:layout_height="-1"
+	android:layoutDirection="0"
+	>
+	</LinearLayout>
+	<include
+	android:layout_width="0"
+	android:layout_height="-1"
+	android:layout_marginRight="0"
+	android:layout_marginEnd="0"
+	layout="@7F040026"
+	>
+	</include>
+	<ImageView
+	android:id="@7F0F0081"
+	android:layout_width="0"
+	android:layout_height="-1"
+	>
+	</ImageView>
+</LinearLayout>

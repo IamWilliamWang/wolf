@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="-1"
+android:layout_height="-1"
+>
+	<android.support.v4.widget.CircleImageView
+	android:layout_width="-2"
+	android:layout_height="-2"
+	android:src="@7F020051"
+	>
+	</android.support.v4.widget.CircleImageView>
+	<TextView
+	android:layout_width="-2"
+	android:layout_height="-2"
+	android:text="@7F080015"
+	>
+	</TextView>
+</LinearLayout>

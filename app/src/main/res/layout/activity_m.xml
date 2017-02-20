@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:fantasy="http://schemas.android.com/apk/res-auto"
+orientation="1"
+layout_width="-1"
+layout_height="-1"
+weightSum="1065353216"
+>
+	<TextView
+	layout_gravity="0x00000001"
+	id="@7F0F0058"
+	background="#FF000000"
+	padding="0"
+	layout_width="-1"
+	layout_height="-2"
+	layout_margin="0"
+	layout_weight="1035489772"
+	>
+	</TextView>
+</LinearLayout>

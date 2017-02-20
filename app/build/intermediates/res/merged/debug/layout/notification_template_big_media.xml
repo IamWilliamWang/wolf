@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@7F0F0077"
+android:layout_width="-1"
+android:layout_height="0"
+>
+	<ImageView
+	android:id="@7F0F0029"
+	android:layout_width="@7F0A004B"
+	android:layout_height="@7F0A004A"
+	android:scaleType="6"
+	>
+	</ImageView>
+	<include
+	android:layout_width="0"
+	android:layout_height="0"
+	android:layout_marginLeft="0"
+	android:layout_marginRight="0"
+	android:layout_alignParentRight="true"
+	layout="@7F040026"
+	>
+	</include>
+	<include
+	android:layout_gravity="0x00000070"
+	android:layout_width="-1"
+	android:layout_height="-2"
+	android:layout_marginLeft="@7F0A004B"
+	android:layout_toLeftOf="@7F0F0076"
+	android:layout_marginStart="@7F0A004B"
+	android:layout_toStartOf="@7F0F0076"
+	layout="@7F040029"
+	>
+	</include>
+	<LinearLayout
+	android:orientation="0"
+	android:id="@7F0F0078"
+	android:layout_width="-1"
+	android:layout_height="0"
+	android:layout_marginLeft="0"
+	android:layout_marginRight="0"
+	android:layout_alignParentBottom="true"
+	android:layoutDirection="0"
+	>
+	</LinearLayout>
+	<ImageView
+	android:id="@7F0F0079"
+	android:background="?android0101032C"
+	android:layout_width="-1"
+	android:layout_height="0"
+	android:layout_above="@7F0F0078"
+	>
+	</ImageView>
+</RelativeLayout>

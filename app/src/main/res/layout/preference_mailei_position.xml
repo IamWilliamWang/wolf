@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:fantasy="http://schemas.android.com/apk/res-auto"
+gravity="0x00000010"
+paddingLeft="0"
+paddingRight="?android01010063"
+layout_width="-1"
+layout_height="-2"
+>
+	<RelativeLayout
+	layout_width="-2"
+	layout_height="-2"
+	layout_marginTop="0"
+	layout_marginRight="0"
+	layout_marginBottom="0"
+	layout_weight="1065353216"
+	>
+		<TextView
+		textSize="0"
+		textColor="#FFFFFFFF"
+		ellipsize="4"
+		id="@android01020016"
+		fadingEdge="0x00001000"
+		layout_width="-2"
+		layout_height="-2"
+		singleLine="true"
+		>
+		</TextView>
+		<TextView
+		textSize="0"
+		textColor="#FF999999"
+		id="@android01020010"
+		layout_width="-2"
+		layout_height="-2"
+		maxLines="4"
+		layout_below="@android01020016"
+		layout_alignLeft="@android01020016"
+		>
+		</TextView>
+	</RelativeLayout>
+	<LinearLayout
+	orientation="0"
+	background="#FF00FF11"
+	layout_width="-2"
+	layout_height="-2"
+	layout_marginRight="0"
+	>
+		<xyz.wolf.hongbao.activities.PrefTextView
+		textSize="0"
+		textColor="#FF00FF00"
+		ellipsize="4"
+		id="@7F0F008A"
+		background="#FFFFFFFF"
+		padding="0"
+		layout_width="-2"
+		layout_height="-2"
+		layout_margin="0"
+		text="在前"
+		onClick="setClicked"
+		>
+		</xyz.wolf.hongbao.activities.PrefTextView>
+		<xyz.wolf.hongbao.activities.PrefTextView
+		textSize="0"
+		textColor="#FFFFFFFF"
+		ellipsize="4"
+		id="@7F0F008B"
+		background="#FF00FF00"
+		padding="0"
+		layout_width="-2"
+		layout_height="-2"
+		layout_margin="0"
+		text="在后"
+		onClick="setClicked"
+		>
+		</xyz.wolf.hongbao.activities.PrefTextView>
+	</LinearLayout>
+</LinearLayout>

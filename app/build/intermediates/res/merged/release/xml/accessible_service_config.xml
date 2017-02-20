@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accessibility-service
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:description="@7F080014"
+android:settingsActivity="xyz.wolf.hongbao.activities.SettingsActivity"
+android:accessibilityEventTypes="0x00301860"
+android:packageNames="com.tencent.mm"
+android:accessibilityFeedbackType="0xFFFFFFFF"
+android:notificationTimeout="10"
+android:accessibilityFlags="0x00000001"
+android:canRetrieveWindowContent="true"
+>
+</accessibility-service>

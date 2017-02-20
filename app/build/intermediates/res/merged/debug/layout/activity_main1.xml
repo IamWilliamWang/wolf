@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="1"
+android:background="@7F03000E"
+android:layout_width="-1"
+android:layout_height="-1"
+android:weightSum="1065353216"
+>
+	<ImageView
+	android:id="@7F0F0059"
+	android:background="#FFD65645"
+	android:layout_width="-1"
+	android:layout_height="0"
+	android:layout_alignParentTop="true"
+	>
+	</ImageView>
+	<LinearLayout
+	android:orientation="1"
+	android:id="@7F0F005A"
+	android:layout_width="-1"
+	android:layout_height="0"
+	android:layout_marginBottom="0"
+	android:layout_above="@7F0F005B"
+	>
+	</LinearLayout>
+	<LinearLayout
+	android:orientation="0"
+	android:id="@7F0F005B"
+	android:layout_width="-1"
+	android:layout_height="0"
+	android:layout_marginLeft="0"
+	android:layout_marginTop="0"
+	android:layout_marginRight="0"
+	android:layout_marginBottom="0"
+	android:layout_weight="1062668861"
+	>
+		<LinearLayout
+		android:textSize="0"
+		android:textColor="#FF858585"
+		android:orientation="1"
+		android:id="@7F0F005C"
+		android:layout_width="-1"
+		android:layout_height="-1"
+		android:layout_marginLeft="0"
+		android:layout_marginRight="0"
+		android:weightSum="1065353216"
+		android:layout_weight="1056964608"
+		android:onClick="openAccessibility"
+		style="?android0101032B"
+		>
+			<ImageView
+			android:layout_gravity="0x00000030"
+			android:id="@7F0F005D"
+			android:background="@7F03000B"
+			android:layout_width="-2"
+			android:layout_height="0"
+			android:layout_marginTop="0"
+			android:layout_marginBottom="0"
+			>
+			</ImageView>
+			<Button
+			android:textSize="0"
+			android:textColor="#FFFF8C00"
+			android:layout_gravity="0x00000011"
+			android:id="@7F0F005E"
+			android:background="@7F02004B"
+			android:layout_width="-2"
+			android:layout_height="0"
+			android:layout_marginRight="0"
+			android:layout_marginBottom="0"
+			android:text="开启"
+			android:width="0"
+			android:onClick="openAccessibility"
+			>
+			</Button>
+		</LinearLayout>
+		<LinearLayout
+		android:textSize="0"
+		android:textColor="#FF858585"
+		android:orientation="1"
+		android:id="@7F0F005F"
+		android:layout_width="-1"
+		android:layout_height="-1"
+		android:layout_marginLeft="0"
+		android:layout_weight="1056964608"
+		android:onClick="openSettings"
+		style="?android0101032B"
+		>
+			<ImageView
+			android:id="@7F0F0060"
+			android:layout_width="0"
+			android:layout_height="0"
+			android:layout_margin="0"
+			android:layout_marginLeft="0"
+			android:src="@7F030008"
+			>
+			</ImageView>
+			<Button
+			android:textSize="0"
+			android:textColor="#FFFF8C00"
+			android:background="@7F02004B"
+			android:layout_width="0"
+			android:layout_height="0"
+			android:layout_marginLeft="0"
+			android:layout_marginRight="0"
+			android:layout_marginBottom="0"
+			android:text="设置"
+			android:onClick="openSettings"
+			>
+			</Button>
+		</LinearLayout>
+	</LinearLayout>
+</LinearLayout>

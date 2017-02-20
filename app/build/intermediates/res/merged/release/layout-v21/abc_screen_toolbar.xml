@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.ActionBarOverlayLayout
+xmlns:app="http://schemas.android.com/apk/res-auto"
+id="@7F0F003F"
+fitsSystemWindows="true"
+layout_width="-1"
+layout_height="-1"
+>
+	<include
+	layout="@7F040012"
+	>
+	</include>
+	<android.support.v7.widget.ActionBarContainer
+	gravity="0x00000030"
+	id="@7F0F0040"
+	layout_width="-1"
+	layout_height="-2"
+	layout_alignParentTop="true"
+	touchscreenBlocksFocus="true"
+	style="?7F010036"
+	>
+		<android.support.v7.widget.Toolbar
+		id="@7F0F0041"
+		layout_width="-1"
+		layout_height="-2"
+		app:navigationContentDescription="@7F080003"
+		style="?7F01005E"
+		>
+		</android.support.v7.widget.Toolbar>
+		<android.support.v7.widget.ActionBarContextView
+		theme="?7F010038"
+		id="@7F0F0042"
+		visibility="2"
+		layout_width="-1"
+		layout_height="-2"
+		style="?7F01003F"
+		>
+		</android.support.v7.widget.ActionBarContextView>
+	</android.support.v7.widget.ActionBarContainer>
+</android.support.v7.widget.ActionBarOverlayLayout>

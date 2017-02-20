@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.ButtonBarLayout
+xmlns:app="http://schemas.android.com/apk/res-auto"
+gravity="0x00000050"
+orientation="0"
+id="@7F0F002B"
+paddingLeft="0"
+paddingTop="0"
+paddingRight="0"
+paddingBottom="0"
+layout_width="-1"
+layout_height="-2"
+layoutDirection="3"
+app:allowStacking="@7F090000"
+style="?7F010056"
+>
+	<Button
+	id="@android0102001B"
+	layout_width="-2"
+	layout_height="-2"
+	style="?7F010086"
+	>
+	</Button>
+	<android.support.v4.widget.Space
+	id="@7F0F002C"
+	visibility="1"
+	layout_width="0"
+	layout_height="0"
+	layout_weight="1065353216"
+	>
+	</android.support.v4.widget.Space>
+	<Button
+	id="@android0102001A"
+	layout_width="-2"
+	layout_height="-2"
+	style="?7F010085"
+	>
+	</Button>
+	<Button
+	id="@android01020019"
+	layout_width="-2"
+	layout_height="-2"
+	style="?7F010084"
+	>
+	</Button>
+</android.support.v7.widget.ButtonBarLayout>

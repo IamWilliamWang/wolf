@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:gravity="0x00000010"
+android:paddingLeft="0"
+android:paddingRight="?android01010063"
+android:layout_width="-1"
+android:layout_height="-2"
+>
+	<RelativeLayout
+	android:layout_width="-2"
+	android:layout_height="-2"
+	android:layout_marginTop="0"
+	android:layout_marginRight="0"
+	android:layout_marginBottom="0"
+	android:layout_weight="1065353216"
+	>
+		<TextView
+		android:textSize="0"
+		android:textColor="#FFFFFFFF"
+		android:ellipsize="4"
+		android:id="@android01020016"
+		android:fadingEdge="0x00001000"
+		android:layout_width="-2"
+		android:layout_height="-2"
+		android:singleLine="true"
+		>
+		</TextView>
+		<TextView
+		android:textSize="0"
+		android:textColor="#FF999999"
+		android:id="@android01020010"
+		android:layout_width="-2"
+		android:layout_height="-2"
+		android:maxLines="4"
+		android:layout_below="@android01020016"
+		android:layout_alignLeft="@android01020016"
+		>
+		</TextView>
+	</RelativeLayout>
+	<LinearLayout
+	android:orientation="0"
+	android:background="#FF00FF11"
+	android:layout_width="-2"
+	android:layout_height="-2"
+	android:layout_marginRight="0"
+	>
+		<TextView
+		android:textSize="0"
+		android:textColor="#FF00FF00"
+		android:ellipsize="4"
+		android:id="@7F0F0082"
+		android:background="#FFFFFFFF"
+		android:padding="0"
+		android:layout_width="-2"
+		android:layout_height="-2"
+		android:layout_margin="0"
+		android:text="男声"
+		android:onClick="setClicked"
+		>
+		</TextView>
+		<TextView
+		android:textSize="0"
+		android:textColor="#FFFFFFFF"
+		android:ellipsize="4"
+		android:id="@7F0F0083"
+		android:background="#FF00FF00"
+		android:padding="0"
+		android:layout_width="-2"
+		android:layout_height="-2"
+		android:layout_margin="0"
+		android:text="女声"
+		android:onClick="setClicked"
+		>
+		</TextView>
+	</LinearLayout>
+</LinearLayout>

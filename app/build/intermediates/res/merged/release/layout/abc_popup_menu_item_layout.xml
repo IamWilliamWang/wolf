@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.view.menu.ListMenuItemView
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="-1"
+android:layout_height="?7F010052"
+android:minWidth="0"
+style="@7F0B002B"
+>
+	<RelativeLayout
+	android:layout_gravity="0x00000010"
+	android:duplicateParentState="true"
+	android:layout_width="0"
+	android:layout_height="-2"
+	android:layout_weight="1065353216"
+	style="@7F0B002C"
+	>
+		<TextView
+		android:textAppearance="?7F01004C"
+		android:ellipsize="4"
+		android:id="@7F0F002A"
+		android:fadingEdge="0x00001000"
+		android:duplicateParentState="true"
+		android:layout_width="-1"
+		android:layout_height="-2"
+		android:singleLine="true"
+		android:layout_alignParentTop="true"
+		style="@7F0B002D"
+		>
+		</TextView>
+		<TextView
+		android:textAppearance="?7F01004D"
+		android:id="@7F0F003A"
+		android:duplicateParentState="true"
+		android:layout_width="-2"
+		android:layout_height="-2"
+		android:singleLine="true"
+		android:layout_below="@7F0F002A"
+		style="@7F0B002D"
+		>
+		</TextView>
+	</RelativeLayout>
+</android.support.v7.view.menu.ListMenuItemView>

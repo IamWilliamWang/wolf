@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_gravity="0x00000011"
+android:id="@7F0F0024"
+android:layout_width="-2"
+android:layout_height="-1"
+class="android.support.v7.widget.ActivityChooserView$InnerLayout"
+style="?7F01005D"
+>
+	<FrameLayout
+	android:layout_gravity="0x00000011"
+	android:id="@7F0F0025"
+	android:background="?7F01003C"
+	android:paddingLeft="0"
+	android:paddingTop="0"
+	android:paddingRight="0"
+	android:paddingBottom="0"
+	android:focusable="true"
+	android:addStatesFromChildren="true"
+	android:layout_width="-2"
+	android:layout_height="-1"
+	>
+		<ImageView
+		android:layout_gravity="0x00000011"
+		android:id="@7F0F0026"
+		android:layout_width="0"
+		android:layout_height="0"
+		android:scaleType="3"
+		android:adjustViewBounds="true"
+		>
+		</ImageView>
+	</FrameLayout>
+	<FrameLayout
+	android:layout_gravity="0x00000011"
+	android:id="@7F0F0027"
+	android:background="?7F01003C"
+	android:paddingLeft="0"
+	android:paddingTop="0"
+	android:paddingRight="0"
+	android:paddingBottom="0"
+	android:focusable="true"
+	android:addStatesFromChildren="true"
+	android:layout_width="-2"
+	android:layout_height="-1"
+	>
+		<ImageView
+		android:layout_gravity="0x00000011"
+		android:id="@7F0F0026"
+		android:layout_width="0"
+		android:layout_height="0"
+		android:scaleType="3"
+		android:adjustViewBounds="true"
+		>
+		</ImageView>
+	</FrameLayout>
+</view>

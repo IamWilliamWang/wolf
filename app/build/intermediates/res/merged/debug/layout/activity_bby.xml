@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="-1"
+android:layout_height="-1"
+>
+	<Button
+	android:id="@7F0F0050"
+	android:layout_width="-2"
+	android:layout_height="-2"
+	android:text="Reg"
+	>
+	</Button>
+	<Button
+	android:id="@7F0F0051"
+	android:layout_width="-2"
+	android:layout_height="-2"
+	android:text="login"
+	>
+	</Button>
+	<Button
+	android:id="@7F0F0052"
+	android:layout_width="-2"
+	android:layout_height="-2"
+	android:text="Push"
+	>
+	</Button>
+	<Button
+	android:id="@7F0F0053"
+	android:layout_width="-2"
+	android:layout_height="-2"
+	android:text="commonInterface"
+	>
+	</Button>
+</LinearLayout>

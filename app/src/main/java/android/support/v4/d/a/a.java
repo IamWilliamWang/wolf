@@ -1,0 +1,12 @@
+package android.support.v4.d.a;
+
+import android.view.Menu;
+
+public abstract interface a extends Menu
+{
+}
+
+/* Location:           C:\Users\Administrator\Desktop\狼王\classes.jar
+ * Qualified Name:     android.support.v4.d.a.a
+ * JD-Core Version:    0.6.0
+ */
